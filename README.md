@@ -1,0 +1,2 @@
+# Train-Schedule-Analysis-and-Interactive-Route-Enquiry-System-Using-Python
+The goal is to explore, clean, process, and analyze train dataset information to derive meaningful insights about train routes, journey durations,  The project gradually progresses from basic data review to advanced analysis and interactive system development, enabling hands-on experience in data handling, visualization, and system implementation.
