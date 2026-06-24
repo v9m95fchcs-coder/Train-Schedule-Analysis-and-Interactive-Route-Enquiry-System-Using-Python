@@ -11,7 +11,7 @@ development, enabling hands-on experience in data handling,
 visualization, and system implementation.
 
 Key Objectives:
-Analyzed 1.8+ rows of data
+Analyzed 1.8+  lakh rows of data
 Understand dataset structure and quality
 Perform data cleaning and preprocessing
 Conduct exploratory and advanced analysis
